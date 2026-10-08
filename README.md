@@ -1,2 +1,2 @@
-# OPS345-LAB
-Seneca College OPS345 LAB
+# Financial Term For Insurance
+Property Insurance Core Indicators
